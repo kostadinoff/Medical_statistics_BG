@@ -1,0 +1,9 @@
+age_group;total_number;deaths;group
+under 24;500;250;vaccinated
+25 to 34;500;300;vaccinated
+35 to 44 ;1000;700;vaccinated
+over 45;2000;1600;vaccinated
+under 24;4000;2400;unvaccinated
+25 to 34;2000;1400;unvaccinated
+35 to  44 ;1000;800;unvaccinated
+over 45;1000;900;unvaccinated
