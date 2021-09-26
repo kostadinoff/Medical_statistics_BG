@@ -655,7 +655,7 @@ Te се наричат се още **честотни** и показват ко
       <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">total_number</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">deaths</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">fatality_rate_standardized</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">standard_unvaccinated</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">standard_vaccinated</th>
     </tr>
   </thead>
   <tbody class="gt_table_body">
