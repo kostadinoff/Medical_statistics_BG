@@ -1,0 +1,43 @@
+patient;day;time;glucose
+Ivan ;Monday;morning;8
+Ivan ;Monday;midday;12
+Ivan ;Monday;evening;20
+Ivan ;Tuesday;morning;7
+Ivan ;Tuesday;midday;5
+Ivan ;Tuesday;evening;13
+Ivan ;Wednesday;morning;11
+Ivan ;Wednesday;midday;15
+Ivan ;Wednesday;evening;12
+Ivan ;Thursday;morning;7
+Ivan ;Thursday;midday;16
+Ivan ;Thursday;evening;15
+Ivan ;Friday;morning;6
+Ivan ;Friday;midday;16
+Ivan ;Friday;evening;7
+Ivan ;Saturday;morning;15
+Ivan ;Saturday;midday;14
+Ivan ;Saturday;evening;17
+Ivan ;Sunday;morning;12
+Ivan ;Sunday;midday;7
+Ivan ;Sunday;evening;12
+Dimitar;Monday;morning;7
+Dimitar;Monday;midday;7
+Dimitar;Monday;evening;8
+Dimitar;Tuesday;morning;7
+Dimitar;Tuesday;midday;9
+Dimitar;Tuesday;evening;8
+Dimitar;Wednesday;morning;9
+Dimitar;Wednesday;midday;11
+Dimitar;Wednesday;evening;9
+Dimitar;Thursday;morning;9
+Dimitar;Thursday;midday;9
+Dimitar;Thursday;evening;12
+Dimitar;Friday;morning;8
+Dimitar;Friday;midday;7
+Dimitar;Friday;evening;12
+Dimitar;Saturday;morning;7
+Dimitar;Saturday;midday;10
+Dimitar;Saturday;evening;9
+Dimitar;Sunday;morning;10
+Dimitar;Sunday;midday;12
+Dimitar;Sunday;evening;11
