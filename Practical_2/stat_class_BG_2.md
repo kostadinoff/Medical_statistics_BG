@@ -309,7 +309,7 @@
     сумата от стойностите на една група от числа, разделени на броя на
     групата.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\bar{x}&space;=\frac{\sum&space;{x}}{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar{x}&space;=\frac{\sum&space;{x}}{n}" title="\bar{x} =\frac{\sum {x}}{n}" /></a>
+<img src="https://latex.codecogs.com/gif.latex?\bar{x}&space;=\frac{\sum&space;{x}}{n}" title="\bar{x} =\frac{\sum {x}}{n}" />
 
 Точно това ни представя и тази сложна формула със странни символи.
 Когато изследваме средната стойност за извадката използваме символа *x̄*,
