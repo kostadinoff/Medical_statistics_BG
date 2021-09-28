@@ -390,7 +390,7 @@
 
 Отново разполагаме с формула, този път тя изглежда:
 
-$$\bar{x} = \frac{\\sum x_{u}f}{\\sum_f }$$
+<img src="https://latex.codecogs.com/gif.latex?\bar{x}&space;=&space;\frac{\sum&space;x_{u}f}{\sum_f&space;}" title="\bar{x} = \frac{\sum x_{u}f}{\sum_f }" />
 Нека обясним всеки символ в нея и какво трябва да направим. За да
 изчислим средната аритметична *x̄* трябва да умножим *x*<sub>*u*</sub> по
 *f* . Но какво е *x*<sub>*u*</sub>? Това е средата на интервала. В
@@ -478,7 +478,7 @@ sum_f
 Тоест за знаменател ще използваме числото 45.
 
 След тези “сложни” пресмятания следва да заместим във формулата
-$$\bar{x} = \frac{\sum x_{u}f}{\sum_f } = \frac {2940} {45} = 65.33 $$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\bar{x}&space;=&space;\frac{\sum&space;x_{u}f}{\sum_f&space;}&space;=&space;\frac&space;{2940}&space;{45}&space;=&space;65.33" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar{x}&space;=&space;\frac{\sum&space;x_{u}f}{\sum_f&space;}&space;=&space;\frac&space;{2940}&space;{45}&space;=&space;65.33" title="\bar{x} = \frac{\sum x_{u}f}{\sum_f } = \frac {2940} {45} = 65.33" /></a>
 В крайна сметка получаваме резултата 65.33- това е средната стойност за
 извадката.
 
@@ -507,7 +507,7 @@ $$\bar{x} = \frac{\sum x_{u}f}{\sum_f } = \frac {2940} {45} = 65.33 $$
 
 Отново имаме формула, която да ни подскаже, как да изчислим средната
 аритметична, при такъв тип групиране на данните.
-$$%20\bar{x}=%20\frac{\sum x_{}f}{\sum_f}$$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\bar{x}=\frac{\sum&space;x_{}f}{\sum_f}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar{x}=\frac{\sum&space;x_{}f}{\sum_f}" title="\bar{x}=\frac{\sum x_{}f}{\sum_f}" /></a>
 В случаят, трябва да умножим всяка наблюдавана стойност на пулса по
 честотата с която сме я наблюдавали. Обърнете внимание, че в таблицата
 сърдечна честота 63уд/мин не е наблюдавана при нито един студент. Тоест
@@ -549,7 +549,8 @@ $$%20\bar{x}=%20\frac{\sum x_{}f}{\sum_f}$$
     искаме да разберем какъв е относителния дял на момичетата в групата,
     ще трябва да разделим броя на момичета, върху броя на студентите в
     цялата група и да умножим по 100. Формулата има вида
-    $\hat{p}=\frac{m}{n}{100}$ където *m* е броя на единиците, които
+ <a href="https://www.codecogs.com/eqnedit.php?latex=\hat{p}=\frac{m}{n}{100}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\hat{p}=\frac{m}{n}{100}" title="\hat{p}=\frac{m}{n}{100}" /></a>
+    където *m* е броя на единиците, които
     притежават дадената характеристика (момичета), а *n* e броя на
     единиците в съвкупността (всички студенти в групата).
 
@@ -996,7 +997,7 @@ $$%20\bar{x}=%20\frac{\sum x_{}f}{\sum_f}$$
 Лесно можем да изчислим и средната аритметична на тази извадка -
 събираме всички стойности и ги делим на броя на наблюденията. В случая
 средната е
-$\bar{x} = \frac {90+80+89+72+73+74+78+86+84+82}{10} = 80.8$. За да
+<a href="https://www.codecogs.com/eqnedit.php?latex=\bar{x}&space;=&space;\frac&space;{90&plus;80&plus;89&plus;72&plus;73&plus;74&plus;78&plus;86&plus;84&plus;82}{10}&space;=&space;80.8" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\bar{x}&space;=&space;\frac&space;{90&plus;80&plus;89&plus;72&plus;73&plus;74&plus;78&plus;86&plus;84&plus;82}{10}&space;=&space;80.8" title="\bar{x} = \frac {90+80+89+72+73+74+78+86+84+82}{10} = 80.8" /></a> За да
 разберем каква е вариабилността, можем да изчислим каква е разликата
 между пулса на всеки участник от тази средна за цялата група. Така ще
 получим `девиацията`. По този начин, можем да видим колко се отклонява
@@ -1778,12 +1779,12 @@ $\bar{x} = \frac {90+80+89+72+73+74+78+86+84+82}{10} = 80.8$. За да
 повдигане на квадрат, сега следва да короноваме - в резултат ще получим
 какво е средното ниво на вариабилност в групата. Това е представлява
 `стандартното отклонение` още означавано като SD.
-$$ {SD} = \sqrt{\frac{\sum (x_{} - \bar{x})^{2}}{n}}$$
+<a href="https://www.codecogs.com/eqnedit.php?latex={SD}&space;=&space;\sqrt{\frac{\sum&space;(x_{}&space;-&space;\bar{x})^{2}}{n}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{SD}&space;=&space;\sqrt{\frac{\sum&space;(x_{}&space;-&space;\bar{x})^{2}}{n}}" title="{SD} = \sqrt{\frac{\sum (x_{} - \bar{x})^{2}}{n}}" /></a>
 
 За да изчислим стандартното отклонение в случая, ще съберем всички
 стойности на девиацията повдигната на квадрат, след което ще ги разделим
 на обема на извадката и накрая ще короноваме резултата:
-$$ {SD} = \sqrt{\frac{84.64 + 0.64 + 67.24 + 77.44 + 60.84 + 46.24 + 7.84 + 27.04 + 10.24 + 1.44}{10}}= \sqrt{\frac{383.6}{10}} = \sqrt{38.36} = 6.19 $$
+<a href="https://www.codecogs.com/eqnedit.php?latex={SD}&space;=&space;\sqrt{\frac{84.64&space;&plus;&space;0.64&space;&plus;&space;67.24&space;&plus;&space;77.44&space;&plus;&space;60.84&space;&plus;&space;46.24&space;&plus;&space;7.84&space;&plus;&space;27.04&space;&plus;&space;10.24&space;&plus;&space;1.44}{10}}=&space;\sqrt{\frac{383.6}{10}}&space;=&space;\sqrt{38.36}&space;=&space;6.19" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{SD}&space;=&space;\sqrt{\frac{84.64&space;&plus;&space;0.64&space;&plus;&space;67.24&space;&plus;&space;77.44&space;&plus;&space;60.84&space;&plus;&space;46.24&space;&plus;&space;7.84&space;&plus;&space;27.04&space;&plus;&space;10.24&space;&plus;&space;1.44}{10}}=&space;\sqrt{\frac{383.6}{10}}&space;=&space;\sqrt{38.36}&space;=&space;6.19" title="{SD} = \sqrt{\frac{84.64 + 0.64 + 67.24 + 77.44 + 60.84 + 46.24 + 7.84 + 27.04 + 10.24 + 1.44}{10}}= \sqrt{\frac{383.6}{10}} = \sqrt{38.36} = 6.19" /></a>
 
 След като вече разполагаме със стандартното отклонение, можем да изразим
 пулса на групата по този начин *x̄* = 80.8 ± 6.19 така записано, вече
@@ -2275,8 +2276,8 @@ hospital_days
 начин да установил наличието на стойности бегачи. (outliers)
 
 -   ВАЖНО. Стойностите бегачи, могат да бъдат изчислени спрямо формулата
-    на Тъки. Според нея всички стойности над *Q*3 + 1.5 ⋅ ${IQR}$ или
-    под *Q*1 − 1.5 ⋅ ${IQR}$ са стойности бегачи или outliers.
+    на Тъки. Според нея всички стойности над Q3 + 1.5 ⋅ IQR или
+    под Q1 − 1.5 ⋅ IQR са стойности бегачи или outliers.
 -   ДРУГО ВАЖНО. Тези величини за разсейване се използват само за
     `количествени` променливи, за `качествените` използваме само процент
     като измерител за централна тенденция, но нямаме разсейването от
@@ -2337,7 +2338,8 @@ hospital_days
 съвкупност (средната сърдечна честота на целия курс) използваме
 формулата
 
-$${SE_m} = \frac{SD}{\sqrt{n}}$$
+<a href="https://www.codecogs.com/eqnedit.php?latex={SE_m}&space;=&space;\frac{SD}{\sqrt{n}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{SE_m}&space;=&space;\frac{SD}{\sqrt{n}}" title="{SE_m} = \frac{SD}{\sqrt{n}}" /></a>
+
 - Тоест грешката зависи от стандартното отклонение- колкото по-голямо е
 то, толкова по-неточна е оценката. - Грешката зависи и от обема на
 извадката *n*. Колкото по-повече студенти сме включили толкова по-малка
@@ -2345,7 +2347,8 @@ $${SE_m} = \frac{SD}{\sqrt{n}}$$
 
 Когато заместим във формулата получаваме:
 
-$${SE_m} = \frac{SD}{\sqrt{n}} = \frac {6.53}{\sqrt10}= \frac {6.53}{3.16}=2.07 $$
+<a href="https://www.codecogs.com/eqnedit.php?latex={SE_m}&space;=&space;\frac{SD}{\sqrt{n}}&space;=&space;\frac&space;{6.53}{\sqrt10}=&space;\frac&space;{6.53}{3.16}=2.07" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{SE_m}&space;=&space;\frac{SD}{\sqrt{n}}&space;=&space;\frac&space;{6.53}{\sqrt10}=&space;\frac&space;{6.53}{3.16}=2.07" title="{SE_m} = \frac{SD}{\sqrt{n}} = \frac {6.53}{\sqrt10}= \frac {6.53}{3.16}=2.07" /></a>
+
 Така получихме стандартната грешка.
 
 Сега вече можем да сбъднем и първоначалната си идея. Можем да дадем
@@ -2380,7 +2383,7 @@ $${SE_m} = \frac{SD}{\sqrt{n}} = \frac {6.53}{\sqrt10}= \frac {6.53}{3.16}=2.07 
 
 Как обаче конструираме този интервал. Отново имаме форума:
 
-$$ {CI} = \bar{x\pm}z\cdot{SE_m} $$
+<a href="https://www.codecogs.com/eqnedit.php?latex={CI}&space;=&space;\bar{x\pm}z\cdot{SE_m}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{CI}&space;=&space;\bar{x\pm}z\cdot{SE_m}" title="{CI} = \bar{x\pm}z\cdot{SE_m}" /></a>
 
 Нека разгледаме тази формула по-подробно. За да намерим интервала трябва
 първо да изберем неговата ширина. В медицината, най-често избираме 95%
@@ -2391,7 +2394,7 @@ $$ {CI} = \bar{x\pm}z\cdot{SE_m} $$
 1.95. Нека изчислим интервала на доверителност, за нашият пример с
 пулса.
 
-$$ {95\%CI} = \bar{x\pm}z\cdot{SE_m} = 80.8 {\pm} 2.7{\cdot}1.96 = 80.{\pm} 5.29$$
+<a href="https://www.codecogs.com/eqnedit.php?latex={95\%CI}&space;=&space;\bar{x\pm}z\cdot{SE_m}&space;=&space;80.8&space;{\pm}&space;2.7{\cdot}1.96&space;=&space;80.{\pm}&space;5.29" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{95\%CI}&space;=&space;\bar{x\pm}z\cdot{SE_m}&space;=&space;80.8&space;{\pm}&space;2.7{\cdot}1.96&space;=&space;80.{\pm}&space;5.29" title="{95\%CI} = \bar{x\pm}z\cdot{SE_m} = 80.8 {\pm} 2.7{\cdot}1.96 = 80.{\pm} 5.29" /></a>
 
 Накрая можем да направим и заключение. В основа на нашата извадка, можем
 да кажем, че средната сърдечна честота на курса ще бъде в диапазона $ 76
@@ -2413,12 +2416,12 @@ $$ {95\%CI} = \bar{x\pm}z\cdot{SE_m} = 80.8 {\pm} 2.7{\cdot}1.96 = 80.{\pm} 5.29
 точността на тази оценка. Колко е точен този процент. Отново можем да
 използваме формула:
 
-$$ {SE\_p}= \sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}$$
+<a href="https://www.codecogs.com/eqnedit.php?latex={SE\_p}=&space;\sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{SE\_p}=&space;\sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}" title="{SE\_p}= \sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}" /></a>
 
 Можем да я приложим в нашият пример- за да изчислим грешката на
 точковата оценка относителен дял:
-$$ {SE\_p}= \sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}= \sqrt{\frac{50\cdot{50}}{12}}=
-\sqrt{\frac{2500}{12}}=\sqrt{208}= 14.4\% $$
+
+<a href="https://www.codecogs.com/eqnedit.php?latex={SE\_p}=&space;\sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}=&space;\sqrt{\frac{50\cdot{50}}{12}}=&space;\sqrt{\frac{2500}{12}}=\sqrt{208}=&space;14.4\%" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{SE\_p}=&space;\sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}=&space;\sqrt{\frac{50\cdot{50}}{12}}=&space;\sqrt{\frac{2500}{12}}=\sqrt{208}=&space;14.4\%" title="{SE\_p}= \sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}= \sqrt{\frac{50\cdot{50}}{12}}= \sqrt{\frac{2500}{12}}=\sqrt{208}= 14.4\%" /></a>
 
 Вече имаме измерител за точността на оценката сега можем да изчислим и
 интервала на доверителност.
@@ -2427,12 +2430,14 @@ $$ {SE\_p}= \sqrt{\frac{\hat{p}\cdot{(100-{\hat{p})}}}{n}}= \sqrt{\frac{50\cdot{
 
 Формулата, не е по-различна:
 
-$${CI} = \hat{p\pm}z\cdot{SE_p}$$
+<a href="https://www.codecogs.com/eqnedit.php?latex={CI}&space;=&space;\hat{p\pm}z\cdot{SE_p}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{CI}&space;=&space;\hat{p\pm}z\cdot{SE_p}" title="{CI} = \hat{p\pm}z\cdot{SE_p}" /></a>
+
 Отново стойността на z избираме, спрямо това какъв доверителен интервал
 искаме да използваме. Понеже в медицинските изследвания се използва 95%
 интервал ще изпилваме стойността на z= 1.96 .
 
-$${95\%CI} = \hat{p\pm}z\cdot{SE_p}=50\pm{1.96} \cdot{14.4}= 50\%\pm28.2\%$$
+<a href="https://www.codecogs.com/eqnedit.php?latex={95\%CI}&space;=&space;\hat{p\pm}z\cdot{SE_p}=50\pm{1.96}&space;\cdot{14.4}=&space;50\%\pm28.2\%" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{95\%CI}&space;=&space;\hat{p\pm}z\cdot{SE_p}=50\pm{1.96}&space;\cdot{14.4}=&space;50\%\pm28.2\%" title="{95\%CI} = \hat{p\pm}z\cdot{SE_p}=50\pm{1.96} \cdot{14.4}= 50\%\pm28.2\%" /></a>
+
 Отново е валидна същата логика. Ако вземем 100 извадки от тази генерална
 съвкупност (студентите) процента на момичета в 95% ще бъде между 21.8% и
 78.2%. Този интервал е доста широк. Причината за това е имаме много
