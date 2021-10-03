@@ -968,7 +968,7 @@ hospital_days
 аритметични на една графика ще получим, добре познатото нормално
 разпределение.
 
-<img src="https://raw.githubusercontent.com/kostadinoff/Medical_statistics_BG/main/Practical_2/FIG_2.jpg" width="649" />
+<img src="https://raw.githubusercontent.com/kostadinoff/Medical_statistics_BG/main/practical_2/FIG_2.jpg" width="649" />
 
 Колкото повече извадки правим от тази генерална съвкупност, средната от
 всички средни в самите извадки, ще е най-близо до истинската средна
