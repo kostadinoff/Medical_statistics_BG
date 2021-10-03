@@ -76,7 +76,7 @@
 в градския транспорт. За да отличим точно групата, за която се
 интересуваме използване понятието `генерална съвкупност`.
 
-<img src="https://raw.githubusercontent.com/kostadinoff/Medical_statistics_BG/main/Practical_2/fig1..jpeg" width="590" />
+<img src="https://raw.githubusercontent.com/kostadinoff/Medical_statistics_BG/main/practical_2/fig1..jpeg" width="590" />
 
 В някои изследвания, не можем да използваме хора, някои изследвания са
 фокусирани върху животни, затова използваме понятието
