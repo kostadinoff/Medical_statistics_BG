@@ -2,7 +2,9 @@
 title: "06 - Упражнение"
 subtitle: "Регресионен анализ. Линейна регресия"
 author: "ас.д-р Костадин Костадинов"
-language: custom.yml
+language: 
+      tag: '!expr'
+      value: system('lang_yaml custom.yml')
 format:
   pdf:
     mainfont: "Old Standard TT"

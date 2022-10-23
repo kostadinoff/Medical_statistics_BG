@@ -2,7 +2,9 @@
 title: "04 & 05 - Домашна работа"
 subtitle: "Изследване на връзки. Корелация. Асоциация"
 author: "ас.д-р Костадин Костадинов"
-language: custom.yml
+language: 
+      tag: '!expr'
+      value: system('lang_yaml custom.yml')
 format:
   pdf:
     mainfont: "Old Standard TT"
